@@ -34,30 +34,15 @@ Develop a simple image-encryption tool using pixel manipulation. The program mus
 - Includes automated round-trip and integrity tests.
 - Includes a Windows executable builder.
 
-## 📸 Screenshot Holders
-
-Replace these holders with screenshots saved in the `screenshots/` folder.
+## 📸 Screenshots
 
 | Main interface | Image selected |
 | --- | --- |
-| **Screenshot holder**<br>`screenshots/main_interface.png` | **Screenshot holder**<br>`screenshots/image_selected.png` |
+| ![PixelCrypt main interface](screenshots/main_interface.png) | ![Image selected in PixelCrypt](screenshots/image_selected.png) |
 
 | Encrypted result | Decrypted result |
 | --- | --- |
-| **Screenshot holder**<br>`screenshots/encrypted_result.png` | **Screenshot holder**<br>`screenshots/decrypted_result.png` |
-
-### Required Screenshot Names
-
-1. `main_interface.png`
-2. `image_selected.png`
-3. `encrypted_result.png`
-4. `decrypted_result.png`
-
-After adding each image, replace its holder with Markdown such as:
-
-```markdown
-![PixelCrypt main interface](screenshots/main_interface.png)
-```
+| ![Encrypted image result](screenshots/encrypted_result.png) | ![Decrypted image result](screenshots/decrypted_result.png) |
 
 ## 🧠 How It Works
 
